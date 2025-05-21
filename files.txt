@@ -1,0 +1,17 @@
+.git
+.gitignore
+assets
+dist
+eslint.config.js
+files.txt
+Git.
+index.html
+node_modules
+package-lock.json
+package.json
+proyek
+public
+README.md
+Settings
+src
+vite.config.js
