@@ -220,7 +220,7 @@ function App() {
           data-aos-duration="1000"
           data-aos-once="true"
         >
-          Concact
+          Contact
         </h1>
         <p
           className="text-base leading-loose text-center mb-10 opacity-500 "
@@ -229,13 +229,13 @@ function App() {
           data-aos-delay="300"
           data-aos-once="true"
         >
-          Mari terhubung dengan saya.
+          Let's connect with me.
         </p>
       </div>
       <form
         action="https://formsubmit.co/rismahandayani801@gmail.com"
         method="POST"
-        className="bg-zinc-800 p-10 w-fit mx-auto rounded-md"
+        className="bg-zinc-800 p-6 sm:p-8 md:p-10 lg:p-12 w-full max-w-md sm:max-w-lg md:max-w-xl mx-auto rounded-md"
         data-aos="fade-up"
         data-aos-duration="1000"
         data-aos-delay="500"
